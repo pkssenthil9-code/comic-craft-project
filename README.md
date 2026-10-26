@@ -28,3 +28,5 @@ A Flask web app that creates original comic scripts using Google's Gemini API.
 ## Important
 - Do not upload your API key to GitHub or place it in source code.
 - Gemini API usage may have quotas or charges depending on your account and current terms.
+## COMIC CRAFT APP:
+https://comic-craft-project.onrender.com
